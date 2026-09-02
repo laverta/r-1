@@ -33,7 +33,7 @@
 ```
 r-1/
 ├── SKILL.md                      # 行为脊柱、铁律、羞耻翻译
-├── FOREWORD.md                   # 起源（待作者定稿声音）
+├── FOREWORD.md                   # 起源（仅本地，不入公开仓库）
 ├── README.md
 └── references/
     ├── state-vocabulary.md       # 状态词 + 近邻科学
